@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\GraficasEstadisticas\GraficasEstadisticas\GraficasEstadisticas\bin\Debug\netstandard2.0\GraficasEstadisticas.deps.json
+C:\Users\Asus\source\repos\GraficasEstadisticas\GraficasEstadisticas\GraficasEstadisticas\bin\Debug\netstandard2.0\GraficasEstadisticas.dll
+C:\Users\Asus\source\repos\GraficasEstadisticas\GraficasEstadisticas\GraficasEstadisticas\bin\Debug\netstandard2.0\ref\GraficasEstadisticas.dll
+C:\Users\Asus\source\repos\GraficasEstadisticas\GraficasEstadisticas\GraficasEstadisticas\bin\Debug\netstandard2.0\GraficasEstadisticas.pdb
+C:\Users\Asus\source\repos\GraficasEstadisticas\GraficasEstadisticas\GraficasEstadisticas\obj\Debug\netstandard2.0\GraficasEstadisticas.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\GraficasEstadisticas\GraficasEstadisticas\GraficasEstadisticas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Asus\source\repos\GraficasEstadisticas\GraficasEstadisticas\GraficasEstadisticas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Asus\source\repos\GraficasEstadisticas\GraficasEstadisticas\GraficasEstadisticas\obj\Debug\netstandard2.0\GraficasEstadisticas.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\GraficasEstadisticas\GraficasEstadisticas\GraficasEstadisticas\obj\Debug\netstandard2.0\GraficasEstadisticas.AssemblyInfo.cs
+C:\Users\Asus\source\repos\GraficasEstadisticas\GraficasEstadisticas\GraficasEstadisticas\obj\Debug\netstandard2.0\GraficasEstadisticas.dll
+C:\Users\Asus\source\repos\GraficasEstadisticas\GraficasEstadisticas\GraficasEstadisticas\obj\Debug\netstandard2.0\ref\GraficasEstadisticas.dll
+C:\Users\Asus\source\repos\GraficasEstadisticas\GraficasEstadisticas\GraficasEstadisticas\obj\Debug\netstandard2.0\GraficasEstadisticas.pdb
+C:\Users\Asus\source\repos\GraficasEstadisticas\GraficasEstadisticas\GraficasEstadisticas\obj\Debug\netstandard2.0\GraficasEstadisticas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\GraficasEstadisticas\GraficasEstadisticas\GraficasEstadisticas\obj\Debug\netstandard2.0\XamlC.stamp

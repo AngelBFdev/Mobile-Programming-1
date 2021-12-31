@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros\bin\Debug\netstandard2.0\SumaDeDosNumeros.deps.json
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros\bin\Debug\netstandard2.0\SumaDeDosNumeros.dll
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros\bin\Debug\netstandard2.0\ref\SumaDeDosNumeros.dll
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros\bin\Debug\netstandard2.0\SumaDeDosNumeros.pdb
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros\obj\Debug\netstandard2.0\SumaDeDosNumeros.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros\obj\Debug\netstandard2.0\SumaDeDosNumeros.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros\obj\Debug\netstandard2.0\SumaDeDosNumeros.AssemblyInfo.cs
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros\obj\Debug\netstandard2.0\SumaDeDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros\obj\Debug\netstandard2.0\SumaDeDosNumeros.dll
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros\obj\Debug\netstandard2.0\ref\SumaDeDosNumeros.dll
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros\obj\Debug\netstandard2.0\SumaDeDosNumeros.pdb

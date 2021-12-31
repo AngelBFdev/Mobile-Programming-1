@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\CalculadoraCheckBox\CalculadoraCheckBox\CalculadoraCheckBox\bin\Debug\netstandard2.0\CalculadoraCheckBox.deps.json
+C:\Users\Asus\source\repos\CalculadoraCheckBox\CalculadoraCheckBox\CalculadoraCheckBox\bin\Debug\netstandard2.0\CalculadoraCheckBox.dll
+C:\Users\Asus\source\repos\CalculadoraCheckBox\CalculadoraCheckBox\CalculadoraCheckBox\bin\Debug\netstandard2.0\ref\CalculadoraCheckBox.dll
+C:\Users\Asus\source\repos\CalculadoraCheckBox\CalculadoraCheckBox\CalculadoraCheckBox\bin\Debug\netstandard2.0\CalculadoraCheckBox.pdb
+C:\Users\Asus\source\repos\CalculadoraCheckBox\CalculadoraCheckBox\CalculadoraCheckBox\obj\Debug\netstandard2.0\CalculadoraCheckBox.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CalculadoraCheckBox\CalculadoraCheckBox\CalculadoraCheckBox\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Asus\source\repos\CalculadoraCheckBox\CalculadoraCheckBox\CalculadoraCheckBox\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Asus\source\repos\CalculadoraCheckBox\CalculadoraCheckBox\CalculadoraCheckBox\obj\Debug\netstandard2.0\CalculadoraCheckBox.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CalculadoraCheckBox\CalculadoraCheckBox\CalculadoraCheckBox\obj\Debug\netstandard2.0\CalculadoraCheckBox.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CalculadoraCheckBox\CalculadoraCheckBox\CalculadoraCheckBox\obj\Debug\netstandard2.0\CalculadoraCheckBox.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CalculadoraCheckBox\CalculadoraCheckBox\CalculadoraCheckBox\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Asus\source\repos\CalculadoraCheckBox\CalculadoraCheckBox\CalculadoraCheckBox\obj\Debug\netstandard2.0\CalculadoraCheckBox.dll
+C:\Users\Asus\source\repos\CalculadoraCheckBox\CalculadoraCheckBox\CalculadoraCheckBox\obj\Debug\netstandard2.0\ref\CalculadoraCheckBox.dll
+C:\Users\Asus\source\repos\CalculadoraCheckBox\CalculadoraCheckBox\CalculadoraCheckBox\obj\Debug\netstandard2.0\CalculadoraCheckBox.pdb

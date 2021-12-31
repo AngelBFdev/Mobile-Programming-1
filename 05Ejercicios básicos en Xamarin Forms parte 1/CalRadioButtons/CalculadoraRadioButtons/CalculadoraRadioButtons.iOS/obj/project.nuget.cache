@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OYlRvYgcpYvBdCeXVk0nQwTgXPKCJZvfpObS1l9a/2XFzu5COI7yAQ244/xkzs9LYZ5z13fIuhoDwfo7meSoOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\CalculadoraRadioButtons\\CalculadoraRadioButtons\\CalculadoraRadioButtons.iOS\\CalculadoraRadioButtons.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\xamarin.forms.inputkit\\3.4.3\\xamarin.forms.inputkit.3.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

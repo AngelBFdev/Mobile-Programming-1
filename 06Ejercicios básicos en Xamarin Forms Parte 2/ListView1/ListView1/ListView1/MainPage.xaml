@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListView1.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Frame BackgroundColor="BlueViolet">
+            <Label Text="ListView de frutas" HorizontalTextAlignment="Center" TextColor="White"/>
+        </Frame>
+        
+        <Label Text="Nombre de la fruta:" Margin="15,0"/>
+        <Entry x:Name="valor" Margin="15,0"/>
+        
+        <Label Text="URL de imagen de la fruta" Margin="15,0"/>
+        <Entry x:Name="direccionurl" Margin="15,0"/>
+        
+        <Button Text="Agregar" CornerRadius="24" BackgroundColor="Orange" Clicked="Button_Clicked" Margin="15,1"/>
+        
+        <ListView x:Name="milista" ItemTapped="Milista_ItemTapped" SeparatorColor="Coral" Margin="15,1">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.ContextActions>
+                            <MenuItem Clicked="MenuItem_Mostrar" Text="Mostrar" />
+                            <MenuItem Clicked="MenuItem_Borrar" CommandParameter="{Binding Nombre}" Text="Borrar" IsDestructive="True" />
+                        </ViewCell.ContextActions>
+                        
+                        <StackLayout Orientation="Horizontal">
+                            <Image Source="{Binding Url}"/>
+                            <StackLayout Padding="15,0">
+                                <Label Text="Valor del elemento:"/>
+                                <Label Text="{Binding Nombre}" />
+                            </StackLayout>
+                        </StackLayout>
+                    
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

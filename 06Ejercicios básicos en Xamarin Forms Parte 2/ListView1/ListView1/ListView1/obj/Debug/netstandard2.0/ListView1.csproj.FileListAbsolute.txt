@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\ListView1\ListView1\ListView1\bin\Debug\netstandard2.0\ListView1.deps.json
+C:\Users\Asus\source\repos\ListView1\ListView1\ListView1\bin\Debug\netstandard2.0\ListView1.dll
+C:\Users\Asus\source\repos\ListView1\ListView1\ListView1\bin\Debug\netstandard2.0\ref\ListView1.dll
+C:\Users\Asus\source\repos\ListView1\ListView1\ListView1\bin\Debug\netstandard2.0\ListView1.pdb
+C:\Users\Asus\source\repos\ListView1\ListView1\ListView1\obj\Debug\netstandard2.0\ListView1.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ListView1\ListView1\ListView1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Asus\source\repos\ListView1\ListView1\ListView1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Asus\source\repos\ListView1\ListView1\ListView1\obj\Debug\netstandard2.0\ListView1.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ListView1\ListView1\ListView1\obj\Debug\netstandard2.0\ListView1.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ListView1\ListView1\ListView1\obj\Debug\netstandard2.0\ListView1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ListView1\ListView1\ListView1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Asus\source\repos\ListView1\ListView1\ListView1\obj\Debug\netstandard2.0\ListView1.dll
+C:\Users\Asus\source\repos\ListView1\ListView1\ListView1\obj\Debug\netstandard2.0\ref\ListView1.dll
+C:\Users\Asus\source\repos\ListView1\ListView1\ListView1\obj\Debug\netstandard2.0\ListView1.pdb

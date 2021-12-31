@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\CalculadoraPicker\CalculadoraPicker\CalculadoraPicker\bin\Debug\netstandard2.0\CalculadoraPicker.deps.json
+C:\Users\Asus\source\repos\CalculadoraPicker\CalculadoraPicker\CalculadoraPicker\bin\Debug\netstandard2.0\CalculadoraPicker.dll
+C:\Users\Asus\source\repos\CalculadoraPicker\CalculadoraPicker\CalculadoraPicker\bin\Debug\netstandard2.0\ref\CalculadoraPicker.dll
+C:\Users\Asus\source\repos\CalculadoraPicker\CalculadoraPicker\CalculadoraPicker\bin\Debug\netstandard2.0\CalculadoraPicker.pdb
+C:\Users\Asus\source\repos\CalculadoraPicker\CalculadoraPicker\CalculadoraPicker\obj\Debug\netstandard2.0\CalculadoraPicker.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CalculadoraPicker\CalculadoraPicker\CalculadoraPicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Asus\source\repos\CalculadoraPicker\CalculadoraPicker\CalculadoraPicker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Asus\source\repos\CalculadoraPicker\CalculadoraPicker\CalculadoraPicker\obj\Debug\netstandard2.0\CalculadoraPicker.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CalculadoraPicker\CalculadoraPicker\CalculadoraPicker\obj\Debug\netstandard2.0\CalculadoraPicker.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CalculadoraPicker\CalculadoraPicker\CalculadoraPicker\obj\Debug\netstandard2.0\CalculadoraPicker.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CalculadoraPicker\CalculadoraPicker\CalculadoraPicker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Asus\source\repos\CalculadoraPicker\CalculadoraPicker\CalculadoraPicker\obj\Debug\netstandard2.0\CalculadoraPicker.dll
+C:\Users\Asus\source\repos\CalculadoraPicker\CalculadoraPicker\CalculadoraPicker\obj\Debug\netstandard2.0\ref\CalculadoraPicker.dll
+C:\Users\Asus\source\repos\CalculadoraPicker\CalculadoraPicker\CalculadoraPicker\obj\Debug\netstandard2.0\CalculadoraPicker.pdb

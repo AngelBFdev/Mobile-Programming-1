@@ -1,0 +1,3 @@
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros.Android\obj\Debug\71\MonoAndroid,Version=v7.1.AssemblyAttributes.cs
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros.Android\obj\Debug\71\build.props
+C:\Users\Asus\source\repos\SumaDeDosNumeros\SumaDeDosNumeros\SumaDeDosNumeros.Android\obj\Debug\71\adb.props

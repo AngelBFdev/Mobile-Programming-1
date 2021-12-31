@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\CalculadoraRadioButtons\CalculadoraRadioButtons\CalculadoraRadioButtons\bin\Debug\netstandard2.0\CalculadoraRadioButtons.deps.json
+C:\Users\Asus\source\repos\CalculadoraRadioButtons\CalculadoraRadioButtons\CalculadoraRadioButtons\bin\Debug\netstandard2.0\CalculadoraRadioButtons.dll
+C:\Users\Asus\source\repos\CalculadoraRadioButtons\CalculadoraRadioButtons\CalculadoraRadioButtons\bin\Debug\netstandard2.0\ref\CalculadoraRadioButtons.dll
+C:\Users\Asus\source\repos\CalculadoraRadioButtons\CalculadoraRadioButtons\CalculadoraRadioButtons\bin\Debug\netstandard2.0\CalculadoraRadioButtons.pdb
+C:\Users\Asus\source\repos\CalculadoraRadioButtons\CalculadoraRadioButtons\CalculadoraRadioButtons\obj\Debug\netstandard2.0\CalculadoraRadioButtons.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CalculadoraRadioButtons\CalculadoraRadioButtons\CalculadoraRadioButtons\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Asus\source\repos\CalculadoraRadioButtons\CalculadoraRadioButtons\CalculadoraRadioButtons\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Asus\source\repos\CalculadoraRadioButtons\CalculadoraRadioButtons\CalculadoraRadioButtons\obj\Debug\netstandard2.0\CalculadoraRadioButtons.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CalculadoraRadioButtons\CalculadoraRadioButtons\CalculadoraRadioButtons\obj\Debug\netstandard2.0\CalculadoraRadioButtons.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CalculadoraRadioButtons\CalculadoraRadioButtons\CalculadoraRadioButtons\obj\Debug\netstandard2.0\CalculadoraRadioButtons.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CalculadoraRadioButtons\CalculadoraRadioButtons\CalculadoraRadioButtons\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Asus\source\repos\CalculadoraRadioButtons\CalculadoraRadioButtons\CalculadoraRadioButtons\obj\Debug\netstandard2.0\CalculadoraRadioButtons.dll
+C:\Users\Asus\source\repos\CalculadoraRadioButtons\CalculadoraRadioButtons\CalculadoraRadioButtons\obj\Debug\netstandard2.0\ref\CalculadoraRadioButtons.dll
+C:\Users\Asus\source\repos\CalculadoraRadioButtons\CalculadoraRadioButtons\CalculadoraRadioButtons\obj\Debug\netstandard2.0\CalculadoraRadioButtons.pdb
